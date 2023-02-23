@@ -21,16 +21,16 @@ Overall, I only encountered one challenge in this assignment: figuring out how t
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-First, the most successful Theater campaigns were launched in May, then June. Second, very few Theater campaigns were canceled. Thirdly, no matter the month, more Theater campaigns succeeded than failed, even in December, when 35 campaigns failed and only 37 campaigns succeeded.
+What are two conclusions you can draw about the Outcomes based on Launch Date?
+- First, the most successful Theater campaigns were launched in May, then June. Second, very few Theater campaigns were canceled. Thirdly, no matter the month, more Theater campaigns succeeded than failed, even in December, when 35 campaigns failed and only 37 campaigns succeeded.
 
-- What can you conclude about the Outcomes based on Goals?
-According to the line chart in the "Outcomes Based on Goals" sheet, the largest percentage of successful plays had a goal amount of either "Less Than 1000" or "1000 to 4999." Similarly, the largest percentage of failed plays had a goal amount of "45000 to 49999." However, no matter the outcome, there was only one play in all that had a goal amount of "45000 to 49999," and this one play failed. 
-
-
-- What are some limitations of this dataset?
-By examining the two sheets that we created in the past two deliverables, I noticed that there are very few canceled Theater campaigns and zero canceled Play campaigns. Consequently, we won't be able to draw as many conclusions about canceled campaigns as we drew about successful and failed campaigns. Similarly, there are plenty of Play campaigns with goal amounts of under 15000, but there are comparitively almost no campaigns with goal amounts of over 15000. Thus, our percentages for more expensive campaigns are not as meaningful as our percentages for less expensive campaigns. 
+What can you conclude about the Outcomes based on Goals?
+- According to the line chart in the "Outcomes Based on Goals" sheet, the largest percentage of successful plays had a goal amount of either "Less Than 1000" or "1000 to 4999." Similarly, the largest percentage of failed plays had a goal amount of "45000 to 49999." However, no matter the outcome, there was only one play in all that had a goal amount of "45000 to 49999," and this one play failed. 
 
 
-- What are some other possible tables and/or graphs that we could create?
-First, I would love to see how successful campaigns for plays are compared to any other parent category, such as campaigns for film & video or technology. To perform this analysis, we could simply create a table that would tell us how many campaigns were successful, failed, or canceled based on parent category. Then, based on whatever trend we find in our copmarison, we could attempt to discover an underlying relationship between campaigns for plays and campaigns for technology. For instance, maybe campaigns for technology are more successful than campaigns for plays because campaigns for technology have a lower target goal than campaigns for plays. 
+What are some limitations of this dataset?
+- By examining the two sheets that we created in the past two deliverables, I noticed that there are very few canceled Theater campaigns and zero canceled Play campaigns. Consequently, we won't be able to draw as many conclusions about canceled campaigns as we drew about successful and failed campaigns. Similarly, there are plenty of Play campaigns with goal amounts of under 15000, but there are comparitively almost no campaigns with goal amounts of over 15000. Thus, our percentages for more expensive campaigns are not as meaningful as our percentages for less expensive campaigns. 
+
+
+What are some other possible tables and/or graphs that we could create?
+- First, I would love to see how successful campaigns for plays are compared to any other parent category, such as campaigns for film & video or technology. To perform this analysis, we could simply create a table that would tell us how many campaigns were successful, failed, or canceled based on parent category. Then, based on whatever trend we find in our copmarison, we could attempt to discover an underlying relationship between campaigns for plays and campaigns for technology. For instance, maybe campaigns for technology are more successful than campaigns for plays because campaigns for technology have a lower target goal than campaigns for plays. 
