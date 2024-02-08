@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Background
-Over the course of Module 1, we' helped our playwright Louise gain valuable insight into our campaign data in an effort to help her fund her play "Fever."
+Over the course of Module 1, we helped our playwright Louise gain valuable insight into our campaign data in an effort to help her fund her play "Fever."
 
 ### Purpose
 The purpose of this analysis is to visualize fundraiser outcomes based on the launch date and the percentage of successful, failed, and canceled plays based on the funding goal amount. Once succssfully visualized, we'll be able to observe our graphs and charts and easily draw useful conclusions about our data. 
